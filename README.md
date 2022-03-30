@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rei-bondoc
 - 👀 I’m interested in software engineering, DevOps, travelling, books, and music
-- 🌱 I’m currently learning DevOps and NoSQL
+- 🌱 I’m currently learning Linux, Cloud Infrastructure technologis and NoSQL
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
